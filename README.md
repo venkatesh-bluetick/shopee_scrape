@@ -1,2 +1,2 @@
 #
-Template for Shopee scraper
+Template  code for Shopee scraper
